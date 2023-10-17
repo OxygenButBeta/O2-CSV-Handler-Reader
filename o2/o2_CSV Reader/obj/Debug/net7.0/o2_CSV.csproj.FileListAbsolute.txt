@@ -1,0 +1,28 @@
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\bin\Debug\net7.0\o2_CSV.exe
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\bin\Debug\net7.0\o2_CSV.deps.json
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\bin\Debug\net7.0\o2_CSV.runtimeconfig.json
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\bin\Debug\net7.0\o2_CSV.dll
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\bin\Debug\net7.0\o2_CSV.pdb
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\o2_CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\o2_CSV.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\o2_CSV.AssemblyInfo.cs
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\o2_CSV.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\o2_CSV.dll
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\refint\o2_CSV.dll
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\o2_CSV.pdb
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\o2_CSV.genruntimeconfig.cache
+C:\Users\suley\source\repos\VCoreAnalitica\VCoreAnalitica\obj\Debug\net7.0\ref\o2_CSV.dll
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\bin\Debug\net7.0\o2_CSV.exe
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\bin\Debug\net7.0\o2_CSV.deps.json
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\bin\Debug\net7.0\o2_CSV.runtimeconfig.json
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\bin\Debug\net7.0\o2_CSV.dll
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\bin\Debug\net7.0\o2_CSV.pdb
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\o2_CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\o2_CSV.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\o2_CSV.AssemblyInfo.cs
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\o2_CSV.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\o2_CSV.dll
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\refint\o2_CSV.dll
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\o2_CSV.pdb
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\o2_CSV.genruntimeconfig.cache
+C:\Users\suley\source\repos\VCoreAnalitica\o2\o2_CSV Reader\obj\Debug\net7.0\ref\o2_CSV.dll
