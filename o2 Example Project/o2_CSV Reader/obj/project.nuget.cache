@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v7VpvyIcb+4zGW7qBlSkT9lgRx3ocn8AfoQlYvNNtPP8S+GPlrfv9/pgP2ce/bO6LREfoIQwRIcTvZCE6eOldA==",
+  "dgSpecHash": "9EhGn86kF5EN8jys625QCNt7T9KL6r/Lv2riGRvxS3obkniI5zzzvVJCyD7ULPa5lhS5yBBUtGrDpO3PKw5kGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suley\\source\\repos\\VCoreAnalitica\\o2\\o2_CSV Reader\\o2_CSV Example.csproj",
+  "projectFilePath": "C:\\Users\\suley\\source\\repos\\o2\\O2-CSV-Handler-Reader\\o2 Example Project\\o2_CSV Reader\\o2_CSV Example.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

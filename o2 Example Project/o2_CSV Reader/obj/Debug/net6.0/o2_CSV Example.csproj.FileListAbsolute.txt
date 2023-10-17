@@ -1,0 +1,14 @@
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\bin\Debug\net6.0\o2_CSV Example.exe
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\bin\Debug\net6.0\o2_CSV Example.deps.json
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\bin\Debug\net6.0\o2_CSV Example.runtimeconfig.json
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\bin\Debug\net6.0\o2_CSV Example.dll
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\bin\Debug\net6.0\o2_CSV Example.pdb
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\o2_CSV Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\o2_CSV Example.AssemblyInfoInputs.cache
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\o2_CSV Example.AssemblyInfo.cs
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\o2_CSV Example.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\o2_CSV Example.dll
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\refint\o2_CSV Example.dll
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\o2_CSV Example.pdb
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\o2_CSV Example.genruntimeconfig.cache
+C:\Users\suley\source\repos\o2\O2-CSV-Handler-Reader\o2 Example Project\o2_CSV Reader\obj\Debug\net6.0\ref\o2_CSV Example.dll

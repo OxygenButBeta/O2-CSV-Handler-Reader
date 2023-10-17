@@ -34,7 +34,7 @@ public static class Platform
             return;
         int.TryParse(CurrentFrameworkVersion.Split('.')[1].Split(" ")[1], out int DotnetVersion);
         if (DotnetVersion < 7)
-            o2.IO.O2_IO.Logger($"! Warning You are using an older framework than the recommended.\nThis project contains LINQ elements that work much faster with .NET 7.0 Framework. or Higher Versions\nThe framework version you are using is {CurrentFrameworkVersion}.\n ");
+            o2.IO.O2_IO.Logger($"You are using an older framework than the recommended. .NET Core 7.0 Framework. or Higher Versions are recommended.\nCurrent framework version is {CurrentFrameworkVersion}.\n ");
         C++;
     }
 }

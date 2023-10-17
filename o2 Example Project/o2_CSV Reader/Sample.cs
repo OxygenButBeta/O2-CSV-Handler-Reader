@@ -38,7 +38,7 @@ o2WinConsole.PrintLogToConsole = true;
    so we can specify how many rows we want to read as a second parameter.
    If the second parameter is not provided, the entire file will be read.
 */
-var mydata = o2DataModel.ReadCSV(@"Samples\Invistico_Airline.csv", 20000);
+var mydata = o2DataModel.ReadCSV(@"Samples\Invistico_Airline.csv");
 // we will only read the first 20000 row in this example.
 
 /*
@@ -53,11 +53,11 @@ PrintToCenter("Stage 2");
 /*
  The dataset is ready, but there is a lot of redundant data.
  We can convert them into numerical values and perform operations on them.
- to do that we need to find unique values in target row.
+ to do that we need to find unique values in target column.
  However, performing this operation on columns with a high number of unique values can lead to problems.
  */
 
-//First Display the column indexes to choose columns easily and for 
+//First Display the column indexes to choose columns easily with their indexes
 o2WinConsole.DisplayColumnIndex = true;
 
 //If the column names are too long for a console application, we can limit them.
